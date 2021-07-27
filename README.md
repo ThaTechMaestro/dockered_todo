@@ -1,4 +1,4 @@
 # dockered_todo
 Dokcerizing a Todo application
 
-Todo Application: [https://github.com/Irene-24/toDo](Repo)
+Todo Application: [Repo](https://github.com/Irene-24/toDo)
